@@ -90,13 +90,3 @@ Register → Login → View Products → Place Order → View/Cancel Orders
 
 *Admin Flow:*  
 Login → Manage Products → Manage Orders
-Readme.md
-[10:39 am, 12/02/2026] Punith: Name: Puneeth Gowda
-Section: BCA E3
-Repo link:https://github.com/PUNEETHGOWDABM/product-management-mern-stack.git
-[10:42 am, 12/02/2026] +91 81236 97154: Name: Niranjan B
-Section: BCA E3
-Repo link: https://github.com/Niranjan8123/product-management-mern-stack.git
-[10:43 am, 12/02/2026] +91 76769 87517: Name: Revanth S
-Section: BCA E3
-Repo link : https://github.com/revanth768/product-management-mern-stack.git
